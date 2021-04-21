@@ -1,0 +1,65 @@
+.profile{
+  height:75px;
+  width:75px;
+  margin:auto;
+  margin-top: 8rem;
+}
+body{
+  background:linear-gradient(to right top, #f5556f,#fb7955);
+  height:100vh;
+  margin:0;
+  text-align: center;
+}
+.input{
+  background-color: #febe82;
+  border:3px solid white;
+  padding:12px 0;
+  width:17rem;
+  border-radius:25px;
+  text-align: center;
+  display: block;
+  font-family: 'Bree Serif', serif;
+  outline: none;
+  color:#f5556f;
+  margin: auto;
+  margin-top: 5px;
+}
+::placeholder{
+  color:#f5556f;
+}
+.login-form{
+  text-align: center;
+  width:22rem;
+  margin:auto;
+}
+h4{
+  color:#fff;
+  font-family: 'Bree Serif', serif;
+}
+.submit-btn{
+  background-color: #3d3d59;
+  padding:14px 0;
+  width:17rem;
+  border-radius: 25px;
+  text-align: center;
+  display: block;
+  border: none;
+  outline:none;
+  color:#fff;
+  margin:auto;
+  margin-top: 18px;
+  font-family: 'Bree Serif', serif;
+}
+.icon{
+  position:relative;
+  top:2.55rem;
+  right:7rem;
+  color:#f5556f;
+
+}
+a{
+  color:#fff;
+  font-size: 4px;
+  margin-top: 5px;
+  font-family: 'Bree Serif', serif;
+}
